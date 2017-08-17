@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.App {
+  text-align: center;
+}
+.pad00{
+  padding: 0;
+}
+.textleft{
+	text-align: left;
+}
+
+th, td{
+	vertical-align: middle !important;
+	text-align: center !important;
+}
+
+.input-group{
+   margin: 20px 0;
+}
+
+svg{
+	height:120px;
+}
+td:first-of-type, td:first-of-type > div{
+	height: 150px;
+	width: 200px;
+}
